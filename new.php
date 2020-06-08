@@ -30,7 +30,7 @@ Route('login/24', function($id){
 <!-- Write a simple javascript function to change the color of paragraph when user clicks the "Change Color" button. -->
 
 <div>
-	function change color() { 
+	function change_color() { 
   document.getElementById("paragraph").style.color = 'blue';
 }
 	<p id="paragraph" style="color:pink" >This is just a test chill out.</p>
