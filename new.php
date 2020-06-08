@@ -21,6 +21,7 @@ Route('login/24', function($id){
 	
 	echo $id;
 	//It will output an too few argument error
+	// To output 24, the route may be rewritten as login/{id} and login/24 can be input in the browser 
 	
 	
 });
