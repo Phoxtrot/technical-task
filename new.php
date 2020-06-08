@@ -20,8 +20,8 @@ recurse(100);
 Route('login/24', function($id){
 	
 	echo $id;
-	//It will output an error
-	// to ouput 24 you can write the route as login/{id}; 
+	//It will output an too few argument error
+	
 	
 });
 
